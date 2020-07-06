@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Nanum+Gothic:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@font-face{
+    font-family:'GmarketSans';
+    src: url("../font/GmarketSansTTFMedium.ttf"),
+         url("..font/GmarketSansTTFLight.ttf"),
+         url("../font/GmarketSansTTFBold.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Gothic A1', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+
+*{margin:0; padding:0; box-sizing: border-box;}
+ol,ul,li{list-style: none;}
+a{text-decoration: none; color:#000;}
+p{font-family: 'Nanum Gothic', sans-serif;}
+body {letter-spacing: -0.05em}
